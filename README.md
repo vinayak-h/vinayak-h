@@ -17,4 +17,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayak-h&show_icons=true&locale=en&layout=compact" alt="vinayak-h" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayak-h&" alt="vinayak-h" /></p>
