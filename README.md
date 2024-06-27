@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vinayak</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vinayak-h&label=Profile%20views&color=0e75b6&style=flat" alt="vinayak-h" /> </p>
 
-
+<p align="center">
 - 🌱 I’m currently learning **ReactJS**
 
-- 📫 How to reach me **hegdevinayak008@gmail.com**
+- 📫 How to reach me **hegdevinayak008@gmail.com**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
