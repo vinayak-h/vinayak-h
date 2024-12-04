@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinayak Hegde</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayak-h&label=Profile%20views&color=0e75b6&style=flat" alt="vinayak-h" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **hegdevinayak008@gmail.com**
 
