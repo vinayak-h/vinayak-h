@@ -44,3 +44,5 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayak-h&show_icons=true&locale=en&layout=compact" alt="vinayak-h" /></p>
+<p align="center">I'm currently exploring opportunities in software development and continuously learning new technologies!</p>
+
