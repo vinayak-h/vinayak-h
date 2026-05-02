@@ -28,13 +28,6 @@
   - Optimized **MySQL queries** to improve performance  
   - Integrated backend with **React frontend** for full-stack delivery  
   - Debugging and resolving production-level issues  
-
-- 📊 **ETL / Data Engineering Work**  
-  - Built **data extraction and transformation pipelines**  
-  - Processed structured and unstructured data for analysis  
-  - Worked on **real-world data workflows and pipelines**  
-  - Exploring **ML/NLP integration with data systems**
-
 ---
 
 ### 📫 Contact Me
