@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinayak Hegde</h1>
-<h3 align="center">Software Engineer | Java • React • Data Systems</h3>
+<h3 align="center">Associate Software Engineer | Java • React • Data Systems</h3>
 
 <p align="center">
   Building scalable backend systems and modern web applications.
@@ -12,11 +12,28 @@
 ---
 
 ### 🚀 About Me
-- 💻 Software Engineer focused on **backend systems & full-stack development**
+- 💻 Associate Software Engineer focused on **backend systems & full-stack development**
 - 🔧 Working with **Java (Spring Boot), React, and REST APIs**
 - 📊 Exploring **Data Engineering / ETL / AI-based applications**
-- ⚡ Strong interest in building **real-world scalable systems**
+- ⚡ Strong focus on building **scalable and production-ready systems**
 - 📍 Based in India
+
+---
+
+### 💼 Career
+- 🏢 **Associate Software Engineer** | 2024 – Present  
+  - Developing backend services using **Java & Spring Boot**
+  - Designing and implementing **REST APIs** for user/member systems  
+  - Built **role-based access control** (Admin/Member workflows)  
+  - Optimized **MySQL queries** to improve performance  
+  - Integrated backend with **React frontend** for full-stack delivery  
+  - Debugging and resolving production-level issues  
+
+- 📊 **ETL / Data Engineering Work**  
+  - Built **data extraction and transformation pipelines**  
+  - Processed structured and unstructured data for analysis  
+  - Worked on **real-world data workflows and pipelines**  
+  - Exploring **ML/NLP integration with data systems**
 
 ---
 
@@ -42,6 +59,7 @@
 ---
 
 ### 🛠️ Tech Stack
+
 **Languages**
 - Java, Python, JavaScript
 
