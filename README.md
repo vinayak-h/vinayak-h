@@ -21,7 +21,7 @@
 ---
 
 ### 💼 Career
-- 🏢 **Associate Software Engineer** | 2024 – Present  
+- 🏢 **Associate Software Engineer** | 2025 – Present  
   - Developing backend services using **Java & Spring Boot**
   - Designing and implementing **REST APIs** for user/member systems  
   - Built **role-based access control** (Admin/Member workflows)  
