@@ -80,11 +80,6 @@
   - Extracts resume data using NLP
   - Suggests skills, jobs, and improvements
   - Built with FastAPI + React
-
-- 🔹 **Data Processing / ETL Work**
-  - Working on real-world data pipelines
-  - Focused on transformation and analytics
-
 ---
 
 ### 📊 GitHub Stats
