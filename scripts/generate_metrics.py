@@ -60,7 +60,7 @@ def main():
         '<line x1="28" y1="132" x2="972" y2="132" stroke="#303036"/>',
         label(28, 157, "LANGUAGES BY REPOSITORY METADATA", 10, "#A1A1AA", "600"),
         label(28, 179, top, 13, "#D4D4D8"),
-        label(972, 179, f"Updated {stamp}", 10, "#71717A"),
+        label(28, 179, f"Last updated: {stamp}", 10, "#71717A"),
         "</svg>"
     ]
     OUT.parent.mkdir(parents=True, exist_ok=True)
