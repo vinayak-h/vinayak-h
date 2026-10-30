@@ -1,6 +1,7 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B0C,100:202124&height=170&section=header&text=VINAYAK%20HEGDE&fontSize=42&fontColor=F5F5F5&fontAlignY=42&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20JAVA%20BACKEND&descSize=13&descColor=B8BBC2&descAlignY=64" width="100%" alt="Vinayak Hegde — Software Engineer and Java Backend Developer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B0C,100:202124&height=170&section=header&text=VINAYAK%20HEGDE&fontSize=42&fontColor=F5F5F5&fontAlignY=42&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20JAVA%20BACKEND&descSize=13&descColor=B8BBC2&descAlignY=64" width="100%" alt="Vinayak Hegde - Software Engineer" />
 
 <br/>
 
@@ -8,9 +9,14 @@
 
 <br/>
 
-[GitHub](https://github.com/vinayak-h) · [LinkedIn](https://www.linkedin.com/in/vinayak-hegde-5b5b77255/) · [Portfolio](https://voidstack-eta.vercel.app/)
+<a href="https://github.com/vinayak-h">GitHub</a> ·
+<a href="https://www.linkedin.com/in/vinayak-hegde-5b5b77255/">LinkedIn</a> ·
+<a href="https://voidstack-eta.vercel.app/">Portfolio</a>
+
+<br/>
 
 <sub>Engineering-focused. Curious by default. Always building.</sub>
+
 </div>
 
 ---
@@ -20,10 +26,10 @@
 I'm a software engineer focused on Java backend development. I enjoy understanding how systems work end to end — from API design and persistence to integration, debugging and deployment.
 
 - **Backend:** Java, Spring Boot, REST APIs, Hibernate/JPA
-- **Data:** SQL, PostgreSQL, MySQL
+- **Database:** SQL, PostgreSQL, MySQL
 - **Frontend:** React, JavaScript, Vite, Tailwind CSS
-- **Engineering interests:** system design, microservices, reliable integrations and applied AI/ML
-- **Currently:** strengthening backend fundamentals and building practical software projects
+- **Interests:** System design, microservices, distributed systems and applied AI/ML
+- **Currently:** Building practical software projects and strengthening backend engineering skills.
 
 ## Selected work
 
@@ -31,102 +37,123 @@ I'm a software engineer focused on Java backend development. I enjoy understandi
 <tr>
 <td width="50%" valign="top">
 
-### [VoidStack ↗](https://voidstack-eta.vercel.app/)
+<h3><a href="https://voidstack-eta.vercel.app/">VoidStack ↗</a></h3>
 
-A technology-focused website for developer resources and technical articles.
+A technology-focused website featuring developer resources and technical articles.
 
-<sub>Website · Technology content</sub>
+<sub>Website · Technology</sub>
+
 </td>
 <td width="50%" valign="top">
 
-### [KnowledgeBridge ↗](https://github.com/vinayak-h/KnowledgeBridge)
+<h3><a href="https://github.com/vinayak-h/KnowledgeBridge">KnowledgeBridge ↗</a></h3>
 
 A knowledge-management application focused on organizing and accessing information.
 
-<sub>Repository · Java / Spring Boot / React</sub>
+<sub>Repository · Software project</sub>
+
 </td>
 </tr>
 </table>
 
-> I only list projects here when I can point to a real website or repository. More work is available in my [repositories](https://github.com/vinayak-h?tab=repositories).
+Explore more: <a href="https://github.com/vinayak-h?tab=repositories">All repositories</a>
 
 ## Technology
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,js,ts,react,vite,tailwind,postgres,mysql,docker,git,github,linux&perline=8" alt="Technology icons" />
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,js,react,vite,tailwind,postgres,mysql,docker,git,github,linux&perline=7" alt="Technology stack" />
+
 </div>
 
 <details>
 <summary><strong>Technical areas</strong></summary>
 
-| Area | Topics |
+| Area | Technologies and concepts |
 |---|---|
-| Java | OOP, Collections, Streams, exception handling, concurrency fundamentals |
-| Backend | Spring Boot, REST API design, validation, persistence |
-| Persistence | SQL, relational modelling, PostgreSQL, MySQL |
-| Architecture | Microservices concepts, integration patterns, system design |
-| Frontend | React, JavaScript, TypeScript, Vite, Tailwind CSS |
-| Delivery | Git, GitHub Actions, Docker, Linux |
+| Programming | Java, Python, JavaScript |
+| Backend | Spring Boot, REST APIs, Hibernate/JPA |
+| Database | PostgreSQL, MySQL, SQL |
+| Architecture | Microservices, system design, integration patterns |
+| Frontend | React, Vite, Tailwind CSS |
+| DevOps | Docker, Git, GitHub Actions, Linux |
+
 </details>
+
+---
 
 ## GitHub activity
 
 <div align="center">
-<img src="./assets/github-metrics.svg" width="100%" alt="Live public GitHub account and repository metrics generated daily by GitHub Actions." />
+
+<img src="./assets/github-metrics.svg" width="100%" alt="GitHub account metrics" />
+
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=vinayak-h&show_icons=true&hide_border=true&bg_color=00000000&title_color=E5E7EB&text_color=9CA3AF&icon_color=9CA3AF&include_all_commits=true" height="155" alt="GitHub statistics card" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak-h&layout=compact&hide_border=true&bg_color=00000000&title_color=E5E7EB&text_color=9CA3AF" height="155" alt="Top languages card" />
+
+<img src="https://streak-stats.demolab.com?user=vinayak-h&hide_border=true&background=0B0B0C&ring=9CA3AF&fire=9CA3AF&currStreakLabel=E5E7EB&sideLabels=9CA3AF&dates=6B7280&currStreakNum=E5E7EB&sideNums=E5E7EB" width="75%" alt="GitHub contribution streak" />
+
 <br/>
-<img src="https://streak-stats.demolab.com?user=vinayak-h&hide_border=true&background=00000000&ring=9CA3AF&fire=9CA3AF&currStreakLabel=E5E7EB&sideLabels=9CA3AF&dates=6B7280&currStreakNum=E5E7EB&sideNums=E5E7EB" width="72%" alt="GitHub contribution streak" />
-<br/>
-<img src="https://raw.githubusercontent.com/vinayak-h/vinayak-h/output/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution graph snake generated by repository workflow" />
+
+<img src="https://raw.githubusercontent.com/vinayak-h/vinayak-h/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake animation" />
+
 </div>
 
-<sub>Repository metrics come from GitHub's public REST API. Third-party stats cards may occasionally be rate-limited or unavailable.</sub>
+<sub>Account and repository metrics are generated from GitHub's public API. Contribution activity is provided by GitHub and the contribution-snake workflow. External statistics services may occasionally be unavailable.</sub>
 
 ## Currently listening
 
 <div align="center">
-<img src="./assets/spotify.svg" width="100%" alt="Currently playing Spotify track. Configure Spotify secrets to activate this panel." />
+
+<img src="./assets/spotify.svg" width="100%" alt="Spotify currently playing integration" />
+
 </div>
 
-<sub>Optional integration. It displays the currently playing track when Spotify is configured and active; otherwise it reports that playback is unavailable.</sub>
+<sub>Optional Spotify integration. Displays the currently playing track when Spotify credentials are configured and playback is active.</sub>
 
-## A little more
+---
+
+## Beyond the code
 
 <details>
-<summary><strong>Open the developer console</strong></summary>
+<summary><strong>Developer console</strong></summary>
 
 ```text
 vinayak@github:~$ whoami
+
 Vinayak Hegde
 
-vinayak@github:~$ focus
+vinayak@github:~$ interests
+
 Backend engineering
 Java ecosystem
 System design
-Practical AI/ML
+Distributed systems
+Artificial Intelligence
 
-vinayak@github:~$ principle
+vinayak@github:~$ philosophy
+
 Understand the problem.
 Build the simplest reliable solution.
 Measure it.
 Improve it.
 
 vinayak@github:~$ exit
+
 Thanks for stopping by.
 ```
+
 </details>
 
 <details>
-<summary><strong>What I'm learning</strong></summary>
+<summary><strong>Currently exploring</strong></summary>
 
-- Designing maintainable Spring Boot services
-- API design, validation, persistence and testing
-- SQL performance and data modelling
+- Building maintainable Spring Boot services
+- REST API design and backend architecture
+- SQL performance and database modelling
 - Distributed systems and microservice trade-offs
-- Docker-based development and delivery
-- Applied machine learning
+- Docker and CI/CD workflows
+- Practical machine learning applications
+
 </details>
 
 ---
@@ -135,9 +162,16 @@ Thanks for stopping by.
 
 **Thanks for visiting.**
 
-If something here interests you, feel free to explore the repositories or connect.
+Always open to interesting engineering discussions and opportunities to build something meaningful.
 
-[GitHub](https://github.com/vinayak-h) · [LinkedIn](https://www.linkedin.com/in/vinayak-hegde-5b5b77255/) · [VoidStack](https://voidstack-eta.vercel.app/)
+<br/>
+
+<a href="https://github.com/vinayak-h">GitHub</a> ·
+<a href="https://www.linkedin.com/in/vinayak-hegde-5b5b77255/">LinkedIn</a> ·
+<a href="https://voidstack-eta.vercel.app/">VoidStack</a>
+
+<br/><br/>
 
 <sub>Minimal by design. Built with Markdown, SVG and GitHub Actions.</sub>
+
 </div>
