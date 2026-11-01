@@ -104,7 +104,7 @@ Explore more: <a href="https://github.com/vinayak-h?tab=repositories">All reposi
 
 <div align="center">
 
-<img src="./assets/spotify.svg" width="100%" alt="Spotify currently playing integration" />
+<img src="https://vinayak-spotify-now-playing.hegdevinayak008.workers.dev/spotify.svg" width="100%" alt="Spotify currently playing integration" />
 
 </div>
 
