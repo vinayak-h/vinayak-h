@@ -10,7 +10,7 @@
   "kv_namespaces": [
     {
       "binding": "SPOTIFY_STATE",
-      "id": "REPLACE_WITH_CLOUDFLARE_KV_NAMESPACE_ID"
+      "id": "c08828527bed4961ba8d498a6f562db1"
     }
   ]
 }
