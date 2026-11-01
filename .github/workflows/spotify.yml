@@ -2,7 +2,9 @@ name: Update Spotify now playing
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    # Run every 5 minutes, offset from the top of the hour to reduce
+    # contention during GitHub Actions' busiest scheduled-workflow window.
+    - cron: "2-59/5 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -10,7 +12,7 @@ permissions:
 
 concurrency:
   group: spotify-now-playing
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   update:
