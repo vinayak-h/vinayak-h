@@ -3,7 +3,7 @@
 <text x="28" y="34" fill="#A1A1AA" font-size="12" font-weight="600" font-family="Inter,Segoe UI,Arial,sans-serif">PUBLIC GITHUB SNAPSHOT</text>
 <text x="28" y="88" fill="#F4F4F5" font-size="30" font-weight="650" font-family="Inter,Segoe UI,Arial,sans-serif">32</text>
 <text x="28" y="111" fill="#A1A1AA" font-size="10" font-weight="600" font-family="Inter,Segoe UI,Arial,sans-serif">PUBLIC REPOSITORIES</text>
-<text x="275" y="88" fill="#F4F4F5" font-size="30" font-weight="650" font-family="Inter,Segoe UI,Arial,sans-serif">8</text>
+<text x="275" y="88" fill="#F4F4F5" font-size="30" font-weight="650" font-family="Inter,Segoe UI,Arial,sans-serif">7</text>
 <text x="275" y="111" fill="#A1A1AA" font-size="10" font-weight="600" font-family="Inter,Segoe UI,Arial,sans-serif">FOLLOWERS</text>
 <text x="522" y="88" fill="#F4F4F5" font-size="30" font-weight="650" font-family="Inter,Segoe UI,Arial,sans-serif">5</text>
 <text x="522" y="111" fill="#A1A1AA" font-size="10" font-weight="600" font-family="Inter,Segoe UI,Arial,sans-serif">STARS EARNED</text>
@@ -12,5 +12,5 @@
 <line x1="28" y1="132" x2="972" y2="132" stroke="#303036"/>
 <text x="28" y="157" fill="#A1A1AA" font-size="10" font-weight="600" font-family="Inter,Segoe UI,Arial,sans-serif">LANGUAGES BY REPOSITORY METADATA</text>
 <text x="28" y="179" fill="#D4D4D8" font-size="13" font-weight="400" font-family="Inter,Segoe UI,Arial,sans-serif">JavaScript (7), C (4), Python (3), Astro (1)</text>
-<text x="28" y="179" fill="#71717A" font-size="10" font-weight="400" font-family="Inter,Segoe UI,Arial,sans-serif">Last updated: 2026-11-19 11:57 UTC</text>
+<text x="28" y="179" fill="#71717A" font-size="10" font-weight="400" font-family="Inter,Segoe UI,Arial,sans-serif">Last updated: 2026-11-20 11:58 UTC</text>
 </svg>
